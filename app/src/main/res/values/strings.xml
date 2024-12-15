@@ -1,0 +1,31 @@
+<resources>
+    <string name="appname">JourneyGuard</string>
+    <string-array name="Product_Category">
+        <item>Tyres &amp; Rim Care</item>
+        <item>Lubricants &amp; Additives</item>
+        <item>Car Accessories</item>
+        <item>Cleaners &amp; More</item>
+        <item>Battery</item>
+    </string-array>
+
+    <string-array name="Vehicle_type">
+        <item>Car</item>
+        <item>Bike</item>
+    </string-array>
+
+    <string-array name="Modeofpayment">
+        <item>Cash on Delivery</item>
+       </string-array>
+
+    <string-array name="order_status">
+        <item>Order Placed</item>
+        <item>Confirmed</item>
+        <item>Shipping</item>
+        <item>Delivered</item>
+        <item>Cancelled</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCcZxVGYAKhCGPo4rUC4gKVEGsi09zzUxE</string>
+</resources>
